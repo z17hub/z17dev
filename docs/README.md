@@ -6,3 +6,10 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 
 - Development and localization web apps, extensions and visual styles.
 - Development and building packages for GNU/Linux.
+
+## Resources
+
+- [z17 CX](https://z17.cx)  
+  Project creator.
+- [z17 IM](https://z17.im)  
+  General contact information.
