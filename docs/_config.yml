@@ -1,0 +1,40 @@
+title: "z17 Dev"
+description: ""
+image: ""
+lang: "ru_RU"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: ""
+
+author:
+  name: "z17 Dev"
+  email: "mail@z17.im"
+  github: "z17dev"
+  twitter: "z17dev"
+
+twitter:
+  username: "z17dev"
+  card: summary
+
+social:
+  name: "z17 Dev"
+  links:
+    - https://z17.dev
+    - https://github.com/z17dev
+    - https://gitlab.com/z17dev
+    - https://t.me/z17dev
+    - https://twitch.tv/z17dev
+    - https://twitter.com/z17dev
+    - https://vk.com/z17dev
+
+webmaster_verifications:
+  google: ""
+  yandex: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
