@@ -7,11 +7,11 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 - Development and localization web apps, extensions and visual styles.
 - Development and building packages for GNU/Linux.
 
-## Resources z17
+## Resources (z17)
 
 - [z17 CX](https://z17.cx)  
   Project creator.
-- [z17 TEL](https://z17.tel)  
+- [z17 Tel](https://z17.tel)  
   General contact information.
 - [z17 IM](https://z17.im)  
   List of profiles in social networks.
