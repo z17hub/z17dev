@@ -9,7 +9,7 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 
 ## Resources (z17)
 
-- [z17 Tel](https://z17.tel)  
+- [z17.tel](https://z17.tel)  
   General contact information.
-- [z17 CX](https://z17.cx)  
+- [z17.cx](https://z17.cx)  
   Project creator.
